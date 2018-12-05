@@ -1,3 +1,2 @@
-### ASM
-
-练习
+### AS
+Some simple asm learn;
